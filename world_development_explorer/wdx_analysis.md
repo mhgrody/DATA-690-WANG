@@ -8,4 +8,30 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 
 ## The Indicators
 
+1.   ### *GDP per Capita*:
+> The economic indicator chosen is GDP.  Gross national product (GNI) was alternatively considered, as GNI can be considered a more well rounded economic indicator (unlike GDP, which only indcludes the value of what a country produces, GNI also includes the income earned by residents both domestic and abroad).  However, when comparing the two indicators between Australia, New Zealand, and the United States, it is clear there is considerablly more foreign income being earned on a per capita basis comparedd to the two Oceanic countries:
+
+
+
+
+> **GDP per Capita for Australia, New Zealand, and US in 2018**
+
+
+![GDP](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-13.png)
+
+> **GNI per Capita for Australia, New Zealand, and US in 2018**
+
+![GDP](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-14.png)
+
+> In order to keep the comparrisons more consistent and on a similar scale, GDP was chosen
+
+
+
+2.   ### *Unemployment Rate (% of total labor force):*
+> The education indicator chosen is unemployment rate.  This indicator was chosen simply because it was one of the few available indicators for education on the World Development Explorer that had data for the two Oceanic countries.
+
+
+
+3.  ### *Infant Mortality rate (deaths per 1,00):*
+> The health indicator chosen is infant mortality rate.  This indicator was chosen because it is considered an incredibly informative metric when evaluating the health of a country.  According to the [World Health Organization](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/3138), infant mortality rate "reflects the social, economic and environmental conditions in which children (and others in society) live, including their health care."
 
