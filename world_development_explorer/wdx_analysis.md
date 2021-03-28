@@ -35,3 +35,6 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 ### 3. *Infant Mortality rate (deaths per 1,00):*
 > The health indicator chosen is infant mortality rate.  This indicator was chosen because it is considered an incredibly informative metric when evaluating the health of a country.  According to the [World Health Organization](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/3138), infant mortality rate "reflects the social, economic and environmental conditions in which children (and others in society) live, including their health care."
 
+## The Comparrison 
+
+![Unknown-9](https://user-images.githubusercontent.com/31520166/112770017-7bfd7d80-8ff2-11eb-9d86-1af49a854f1e.png)
