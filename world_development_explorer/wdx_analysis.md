@@ -39,4 +39,9 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 
 ## The Comparrison 
 
-![Unknown-9](https://user-images.githubusercontent.com/31520166/112770017-7bfd7d80-8ff2-11eb-9d86-1af49a854f1e.png)
+> **GDP, Unemployment Rate, and Infant Mortality Rate 2012-2018**
+![Unknown-9](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-9.png)
+
+![Unknown-10](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-10.png)
+
+![Unknown-8](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-8.png)
