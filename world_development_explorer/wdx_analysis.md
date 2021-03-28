@@ -1,3 +1,5 @@
+![Unknown-8](https://user-images.githubusercontent.com/31520166/112770025-8fa8e400-8ff2-11eb-9b80-5de39b207840.png)
+![Uploading Unknown-8.png…]()
 # An Evaluation of Australia vs. New Zealand
 
 To those people who have not spent time in the Oceanic region of the world, the two countries of Australia and New Zealand often get confused or lumped together due to perceived geographic, cultural, and linguistic similarities.  While this perception may exist, Australia and New Zealand are in fact two very distinct countries.  These types of misperceptions fuel the fire of a playful competitiveness between the two countries, sometimes affectionately referred to as the Trans-Tasman rivalry. 
