@@ -46,7 +46,7 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 ![Unknown-8](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-8.png)
 
 
-### Stray Observations:
+#### Stray Observations:
 *   **GDP per capita:** GDP has steadily increased for all three countries between 2012 and 2018.  All 3 countries' GDP has also increased at relatively the same rate as well.  This could partially be a result of inflation.  This checks out as the Australian dollar to US dollar conversion rate dropped roughly 31% between 2012 and 2018.  This would mean the Australian economoy weakened with respect to the US economy.  The conversion rate between the New Zealand dollar and US dollar similarly decreased (14.98%). Conversion rates: [AU](https://www.google.com/search?q=australia+usd+conversion&rlz=1C5CHFA_enUS779US780&oq=australia+usd&aqs=chrome.2.69i57j0l7j0i20i263j0.7052j0j7&sourceid=chrome&ie=UTF-8) [NZ](https://www.google.com/search?q=new+zealand+currency+to+usd&rlz=1C5CHFA_enUS779US780&sxsrf=ALeKk018ItCfQObXuj_d1IgiUW_9nVTWlw%3A1616979040828&ei=YCRhYJz5MZqg5NoPsLWLuA0&oq=new+zealand+currency&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQ1AAWABgitkCaAJwAngAgAG3BYgBtwWSAQM1LTGYAQCqAQdnd3Mtd2l6yAEKwAEB&sclient=gws-wiz)
 
 
@@ -68,3 +68,8 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 ![2016](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-5.png)
 ![2017](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-6.png)
 ![2018](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-7.png)
+
+#### Stray Observations:
+
+*   Intuitively it might seem like the country with the highest GDP would have the lower infant mortality rates and unemployment rates.  However, consi
+
