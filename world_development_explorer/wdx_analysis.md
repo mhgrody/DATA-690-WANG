@@ -32,7 +32,7 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 
 
 
-### 3. *Infant Mortality rate (deaths per 1,00):*
+### 3. *Infant Mortality rate (deaths per 1,000 live births):*
 > The health indicator chosen is infant mortality rate.  This indicator was chosen because it is considered an incredibly informative metric when evaluating the health of a country.  According to the [World Health Organization](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/3138), infant mortality rate "reflects the social, economic and environmental conditions in which children (and others in society) live, including their health care."
 
 ## The Comparrison 
@@ -76,5 +76,5 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 
 ## Conclusion
 
-So which country is better?  Australia had better GDP and and infant mortality rates compared to New Zealand, but New Zealand generally outperformed Australia in unemployment.  Ulitimately, while this analysis provides us some interesing insight into the similaries and differences between Australia and New Zealand (and the US), there is not enough information here to come to any definitive conclusions. There are many more factors, both quantitative and qualitative, that define a country for what it is.  Further research should investigate more indicators, while also providing more cultural, political, and societal qualitative context on the differences between these two countries.
+So which country is better?  Australia had better GDP and infant mortality rates compared to New Zealand, but New Zealand generally outperformed Australia in unemployment.  Ulitimately, while this analysis provides us some interesing insight into the similaries and differences between Australia and New Zealand (and the US), there is not enough information here to come to any definitive conclusions. There are many more factors, both quantitative and qualitative, that define a country for what it is.  Further research should investigate more indicators, while also providing more cultural, political, and societal qualitative context on the differences between these two countries.
 
