@@ -44,3 +44,13 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 ![Unknown-10](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-10.png)
 
 ![Unknown-8](https://raw.githubusercontent.com/mhgrody/DATA-690-WANG/main/world_development_explorer/charts/Unknown-8.png)
+
+
+### Stray Observations:
+*   **GDP per capita:** GDP has steadily increased for all three countries between 2012 and 2018.  All 3 countries' GDP has also increased at relatively the same rate as well.  This could partially be a result of inflation.  This checks out as the Australian dollar to US dollar conversion rate dropped roughly 31% between 2012 and 2018.  This would mean the Australian economoy weakened with respect to the US economy.  The conversion rate between the New Zealand dollar and US dollar similarly decreased (14.98%). Conversion rates: [AU](https://www.google.com/search?q=australia+usd+conversion&rlz=1C5CHFA_enUS779US780&oq=australia+usd&aqs=chrome.2.69i57j0l7j0i20i263j0.7052j0j7&sourceid=chrome&ie=UTF-8) [NZ](https://www.google.com/search?q=new+zealand+currency+to+usd&rlz=1C5CHFA_enUS779US780&sxsrf=ALeKk018ItCfQObXuj_d1IgiUW_9nVTWlw%3A1616979040828&ei=YCRhYJz5MZqg5NoPsLWLuA0&oq=new+zealand+currency&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQzIHCAAQsAMQQ1AAWABgitkCaAJwAngAgAG3BYgBtwWSAQM1LTGYAQCqAQdnd3Mtd2l6yAEKwAEB&sclient=gws-wiz)
+
+
+*   **Unemployment:** Beginning in 2012, Australia had the lowest unemployment rate (5.3%).  However, in 2014 and 2015 both New Zealand and the US overtook Australia, with the US at the lowest rate (4% vs New Zealand's 4.4% and Australia's 5.4%).   Interestingly, while both the US and New Zealand conversion rate declined between 2012 and 2018, Australia's increased.  It steadily increased between 2012 and 2014, and then steadily deceased, settling a hair above where it was in 2012.
+
+
+*   **Infant Mortality Rate:** Starting in 2012, Australia had the lowest infant mortality rate at 3.5.  New Zealand's was 1.6 higher, and the US infant mortality rate was almost twice as high as Australia's with a rate of 6 infant deaths per 1000 births.  Between 2012 and 2018, all three countrie's infant mortality rates have decreased at roughly the same rate (around 20%).  By 2018, Australia maintained the lowest infant mortality rate between the three countries.
