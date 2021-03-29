@@ -71,5 +71,5 @@ Given the existence of this tounge-in-cheek rivalry, this project will attempt t
 
 #### Stray Observations:
 
-*   Intuitively it might seem like the country with the highest GDP would have the lower infant mortality rates and unemployment rates.  However, consi
+*   Intuitively it might seem like the country with the highest GDP would have the lower infant mortality rates and unemployment rates.  If a country has a strong economy, it seems more likely that it will have the resources to improve health and combat unemployment.  However, these charts show that, at least for these three countries, this is not the case.  For example, despite consistently having a GDP of about $10,000 more than Australia and $20,000 more than New Zealand between 2012 and 2018, the United States maintained a much higher infant mortality rate than both countries for the same time period.  One possible explanation is that the US dedicated less of its economic resources to healthcare.  Both Australia and New Zealand have robust public healthcare systems.
 
